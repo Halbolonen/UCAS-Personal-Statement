@@ -17,10 +17,17 @@
 ### Question 3: **What else have you done to prepare outside of education, and why are these experiences useful?**
 
     I participated in the 2026 UK CanSat competition, in which I worked with four other A-Level students over five months to design, build and test a miniaturised satellite simulation called a “CanSat” alongside my A-Level studies.
-    As part of the team, I designed and wrote the implementation for the code used in the CanSat’s microcontroller, contributed to the team’s Preliminary and Critical Design Review with high-level documentation of the code, participated in field testing of the radio telemetry system of the CanSat and performed time-pressured troubleshooting of the CanSat’s systems on launch day.
+    As part of the team, I designed and wrote the code used in the CanSat’s microcontroller, contributed to the team’s Preliminary and Critical Design Review with high-level documentation of the code, participated in field testing of the CanSat's radio telemetry system and performed time-pressured troubleshooting of the CanSat’s systems on launch day.
 
     The CanSat competition gave me fascinating insight into and experience with the lifecycle of an aerospace-related engineering project.
+    
+    With this new insight into aerospace, my interest in learning more about the industry was piqued.
+    As such, I was thrilled to become aware of a work experience placement opportunity at GE Aerospace.
+    During the placement, I worked with a team of 4 A-Level students in a data science project involving selecting and fine-tuning a machine learning model to predict when components of a turbofan engine would need to be replaced.
+    The data science work also included finding and removing outliers from the various categories of engine sensor data based on an understanding of realistic operating conditions for the engine.
+    Along with the group project, we were also provided with a tour of the aerospace equipment manufacturing facilities on-site, where I was able to ask questions to industry professionals about the hardware being produced on-site, as well as their pathway taken to their career.
+    My team and I presented a documentary of our process in producing our machine learning model to industry professionals and other teams at the end of the placement.
+    The placement developed my skills in team 
 
-    I attended a week-long robotics summer school at the University of Southampton, where I worked in a team with three other A-Level students to design, build, test and deploy a fully autonomous robot to play an arena game against another team's robot. The summer school provided a vast array of engineering experience and insight, with practical experience in control theory, robust progamming involving infra-red sensors and developing a complex engineering project as a team under time pressure being the most valuable experiences during the event.
-    
-    
+    I attended a week-long robotics summer school at the University of Southampton, where I worked in a team with three other A-Level students to design, build, test, and deploy a fully autonomous robot to play an arena game against another team's robot.
+    I pioneered design decisions on the sensor-based navigation system that our robot used based on the its behaviour in simulation software, and adjusted the robot's code during field testing to account for sensor imperfections and differing conditions from the simulator.
